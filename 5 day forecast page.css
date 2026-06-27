@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+}
+
+
+nav{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.png-1{
+    width: 100px;
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    max-width: 250px;
+    min-width: 120px;
+    height: auto;
+}
+
+#png-1{
+    width: 300px;
+}
+
+
+
+
